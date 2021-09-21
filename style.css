@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+.container{
+    height: 99vh;
+    /* border: 2px solid aqua; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+    display: flexbox;
+    text-align: center;
+}
+.inner{
+    height: 40vh;
+    width: 40vw;
+    border: 10px solid green;
+    /* padding: 50px; */
+}
+input{
+    color: bisque;
+}
+#payment{
+    color: bisque;
+}
